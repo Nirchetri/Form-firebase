@@ -1,0 +1,21 @@
+.navbar-header{
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+
+.container{
+    background-color: gray;
+    border-radius: 20px;
+}
+
+
+
+.png{
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    margin-top: 90%;
+    box-shadow: 10px 10px 5px wheat;
+    border-radius: 20px;
+}
